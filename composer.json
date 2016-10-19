@@ -1,7 +1,6 @@
 {
     "require": {
-        "knplabs/github-api": "^1.7",
-        "guzzlehttp/guzzle": "^6.2"
+        "knplabs/github-api": "^1.7"
     },
     "autoload": {
         "psr-4": {
